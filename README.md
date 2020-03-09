@@ -1,3 +1,11 @@
+# Comments with React
+
+## Description
+
+This is a very basic project made with React for studying purposes. It shows some comments.
+
+This app is shown in the course Modern React with Redux by Stephen Grinder at Udemy (https://www.udemy.com/course/react-redux/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
